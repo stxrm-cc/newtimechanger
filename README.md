@@ -1,5 +1,5 @@
 # newtimechanger
-Misplaces niggas on ur screen so u get a reach effect on ur opponent
+Misplaces players closer to you so you get a reach effect on your opponent
 
 Look in the releases for a download.
 

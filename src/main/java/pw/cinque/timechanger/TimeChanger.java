@@ -66,7 +66,7 @@ public class TimeChanger
                 this.mc.theWorld.setWorldTime((long)(System.currentTimeMillis() * TimeChanger.fastTimeMultiplier % 24000.0));
             }
         
-			if (Keyboard.isKeyDown(Keyboard.KEY_RSHIFT) && Keyboard.isKeyDown(Keyboard.KEY_DELETE) && !a) {
+			if (Keyboard.isKeyDown(Keyboard.KEY_RSHIFT) && !a) {
 		    	a = true;
 		        
 		   		try{
